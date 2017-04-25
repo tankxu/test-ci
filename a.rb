@@ -1,3 +1,6 @@
 puts "hello"
-jjj
-gg
+
+
+def this_method
+  p "stringaling"
+end
